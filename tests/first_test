@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# Test logic here
+
+# Output JSON format test pass / fail status
+
+echo "failed"
+
+exit 1
